@@ -1,0 +1,16 @@
+Source: python3-pysvn
+Section: python
+Priority: standard
+Maintainer: Juanma1980 <juanma1980@gmail.com>
+Uploaders: LliureX Team
+Build-Depends: debhelper (>= 9.0.0),
+               dh-python,
+               python3-setuptools,
+               python3-all,
+Standards-Version: 4.1.4
+
+Package: python3-pysvn
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Python3 subversion bindings
+
