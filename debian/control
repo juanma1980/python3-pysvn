@@ -12,6 +12,6 @@ Standards-Version: 4.1.4
 
 Package: python3-pysvn
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends},python3-dateutil
 Description: Python3 subversion bindings
 
