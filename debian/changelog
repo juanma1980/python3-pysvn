@@ -1,3 +1,9 @@
+python3-pysvn (1.0.1git20240112lliurex25) jammy; urgency=medium
+
+  * Noble release
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 25 Sep 2024 08:21:40 +0200
+
 python3-pysvn (1.0.1git20240112) jammy; urgency=medium
 
   * Jammy release
